@@ -13,14 +13,20 @@ Example: `python find_safe_dc_boundary.py -g topology.txt -d devices.txt -o emu_
 # File Format
 
 ## topology.txt
+Input file
+
 The first line is: `<the total number of devices in the topology>`
 
 Any other line is a link, represented as a device pair: `<upper device, device>`
 
 ## devices.txt
+Input file
+
 The id of the devices must be emulated: `<device_1, device_2, ...>`
 
 ## emu_devices.txt
+Output file
+
 The first line is: `<the total number of emulated devices, the percentage of emulated devices among all>`
 
 The second line shows the device ids of all emulated ones:`<device_1, device_2, ...>`
