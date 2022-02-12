@@ -29,5 +29,5 @@ Output file
 
 The first line is: `<the total number of emulated devices, the percentage of emulated devices among all>`
 
-The second line shows the device ids of all emulated ones:`<device_1, device_2, ...>`
+The second line shows the device ids of all emulated ones: `<device_1, device_2, ...>`
  
