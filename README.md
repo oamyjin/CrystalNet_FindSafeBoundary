@@ -18,7 +18,7 @@ The first line is: `<the total number of devices in the topology>`
 Any other line is a link, represented as a device pair: `<upper device, device>`
 
 ## devices.txt
-The id of the devices must be emulated: `device_1, device_2, ... `
+The id of the devices must be emulated: `<device_1, device_2, ...>`
 
 ## emu_devices.txt
 The first line is: `<the total number of emulated devices, the percentage of emulated devices among all>`
