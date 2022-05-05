@@ -1,5 +1,5 @@
 # CrystalNet_FindSafeBoundary
-A implementation of the algorithm to find the safe boundary of paper _CrystalNet: Faithfully Emulating Large Production Networkst_: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/p599-liu.pdf
+This repo includes a review report and an implementation of the algorithm to find the safe boundary of paper _CrystalNet: Faithfully Emulating Large Production Networkst_: https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/p599-liu.pdf
 
 # Usage
 `find_safe_dc_boundary.py` reads input files, implements the algorithm to find the safe boundary and output the result file.
